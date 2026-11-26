@@ -6,7 +6,7 @@ interface AkryonixSoonProps {
 }
 
 export default function HomePage({
-  logoSrc = "/images/akryonix.jfif",
+  logoSrc = "/images/akryonix.png",
   badgeText = "Construyendo, Disponible muy pronto",
 }: AkryonixSoonProps) {
   return (
